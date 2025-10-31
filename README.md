@@ -312,13 +312,6 @@ dispatch(markAsRead("abc123"));
 
 ---
 
-Perfect — here’s a **Markdown section** you can drop straight into your existing `README.md`.
-It fits naturally **after your current "Next Steps" or "Future Work" section**, written in the same clean format.
-
----
-
-````markdown
-
 ## 🧭 Future Work & Developer Hints
 
 Below are practical hints for extending **NotiFlux** beyond the current hardcoded setup.  
