@@ -311,7 +311,7 @@ dispatch(markAsRead("abc123"));
 * Theming: dark mode, shadcn/ui tokens.
 
 ---
-
+```
 ## 🧭 Future Work & Developer Hints
 
 Below are practical hints for extending **NotiFlux** beyond the current hardcoded setup.  
